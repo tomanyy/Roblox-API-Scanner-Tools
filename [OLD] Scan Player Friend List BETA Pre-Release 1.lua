@@ -1,3 +1,8 @@
+-- WARNING!!!
+-- This old beta version of one of the Roblox API Tools
+-- This version is very unstable and we dont prefer using this one!
+-- Please use the python version instead!
+
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
